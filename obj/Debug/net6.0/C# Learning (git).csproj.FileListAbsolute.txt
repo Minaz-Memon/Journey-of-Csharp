@@ -1,0 +1,5 @@
+C:\Promact\C# Learning (git)\obj\Debug\net6.0\C# Learning (git).csproj.AssemblyReference.cache
+C:\Promact\C# Learning (git)\obj\Debug\net6.0\C# Learning (git).GeneratedMSBuildEditorConfig.editorconfig
+C:\Promact\C# Learning (git)\obj\Debug\net6.0\C# Learning (git).AssemblyInfoInputs.cache
+C:\Promact\C# Learning (git)\obj\Debug\net6.0\C# Learning (git).AssemblyInfo.cs
+C:\Promact\C# Learning (git)\obj\Debug\net6.0\C# Learning (git).csproj.CoreCompileInputs.cache
